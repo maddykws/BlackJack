@@ -1,4 +1,5 @@
 # BlackJack
+https://madhavkratos.github.io/BlackJack-/ Use this link to play the game online! Have fun. 
 Seperating the UI
 In order to understand the code, I will be splittling the code into 2 parts. 
 Number 1: UI section 
