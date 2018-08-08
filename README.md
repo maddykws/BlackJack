@@ -1,9 +1,4 @@
 # BlackJack
-This is a small BlackJack game in JavaScript in the hopes that you out there reading this can use it as a frame to build something much bigger. And if you're a beginner in the programming world, than perhaps this tutorial will help you get a much better idea of how function, objects and DOM manipulation works in JS.
-
-While the following post won't be using any incredibly advanced topics in JavaScript, it is rather involved in what needs to go into a Blackjack game. I recommend the following book Web Design with HTML, CSS, JavaScript. \
-
-
 Seperating the UI
 In order to understand the code, I will be splittling the code into 2 parts. 
 Number 1: UI section 
