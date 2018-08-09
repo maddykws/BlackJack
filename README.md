@@ -1,21 +1,7 @@
 # BlackJack
-https://madhavkratos.github.io/BlackJack-/ Use this link to play the game online! Have fun. 
-Seperating the UI
-In order to understand the code, I will be splittling the code into 2 parts. 
-Number 1: UI section 
-Number 2: JavaScript section. 
+This is a simple implementation of Blackjack that will run in a command-line/UI(see the link). The program begin by asking how many players at the table, start each player with $200, and allow players to make any bet in multiples of $10.
 
-Code: 
-Building the deck: 
-The first thing we make in our game is developing a deck. Here essentially where are making a deck array of 52 cards
-You can find this in deck.js file. 
-A quick shuffle algorithm has been developed to understand the picture more better. 
-
-Building Players: 
-Take an example of 2 players. 
-Steps to play the game: 
-Step 1: Open the index.html file 
-Step 2: Choose the number of players. 
-Step 3: Press Start game and you will find the place for initial bets. 
-Step 4: You can see the current bet is the multiples of 10
-Step 5: There you go you can hit, stay and play the game. 
+The program is implemented with following basic Blackjack rules, including: 
+- Players can choose to hit until they go over 21 
+- Dealer must hit on 16 and stay on 17 
+- Players can or double-down or split (when applicable) 
